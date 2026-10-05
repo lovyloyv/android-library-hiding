@@ -7,6 +7,7 @@ The paper will be linked here once published.
 Repository contents
 
 Directory | Contents
+| ---- | ----
 attack/ | Contains the source for an attacker library-set.
 defend/ | Contains the code for the detections.
 test_app/ | Test Environment.
