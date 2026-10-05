@@ -28,7 +28,7 @@ std::vector< std::string > LEGIT_APP_LIBS = {
 std::string scan_maps()
 {
     std::vector< std::string > app_libs;
-    std::vector< std::string > found; // no repetitions, rw youd use a bitfield here to know your hackflags.
+    std::vector< std::string > found; // no repetitions, real-world youd use a bitfield here to know your hackflags.
     auto contains = [&found](const std::string &lib) {
         return std::find(found.begin(), found.end(), lib) != found.end();
     };
