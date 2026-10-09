@@ -2,7 +2,7 @@
 
 This repository contains the code and images for my dive into exploring the ways actors may hide their shared-libraries and how a defender may work against them.
 
-The paper will be linked here once published.
+The write-up for this repository is located at: [android-library-hiding](https://lovy.sh/posts/android-library-hiding/)
 
 Repository contents
 
